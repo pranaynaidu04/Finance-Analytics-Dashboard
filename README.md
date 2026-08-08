@@ -88,7 +88,15 @@ The dashboard also includes interactive navigation and a detailed grid view with
 - Drill-down Analysis
 
 
+## Dashboard Preview
 
+### Overview Analysis
+
+![Finance Analytics Dashboard - Overview](OverviewAnalysis.png)
+
+### Transaction Analysis
+
+![Finance Analytics Dashboard - Transactions](TransactionAnalysis.png)
 
 
 
