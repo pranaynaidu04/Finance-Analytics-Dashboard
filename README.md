@@ -74,7 +74,6 @@ The dashboard also includes interactive navigation and a detailed grid view with
 - **Power BI** – Dashboard development and data visualization
 - **Power Query** – Data transformation and preparation
 - **DAX** – Measures and analytical calculations
-- **Excel** – Source data and data preparation
 
 ## Skills Demonstrated
 
